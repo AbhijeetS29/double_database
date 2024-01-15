@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "835879129455",
+    "project_id": "double-database-eced1",
+    "storage_bucket": "double-database-eced1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:835879129455:android:b9bc6a3dbf689f7c2c589a",
+        "android_client_info": {
+          "package_name": "com.example.double_database"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBk333uNcqFYa1J880VoeMcVRwZrmsZaTQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
