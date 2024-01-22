@@ -40,6 +40,7 @@ dependencies:
   firebase_auth:
   mysql1:
   fluttertoast: ^8.2.4
+  fluttermoji: ^1.0.2
 
 dev_dependencies:
   flutter_test:
